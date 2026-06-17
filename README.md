@@ -7,7 +7,7 @@
 <p align="center">
   I build practical software around AI tools, data systems and full-stack products.
   <br />
-  正在把数据采集、趋势分析、业务系统和 AI 能力做成真实可运行的产品。
+  热爱开源，喜欢分享可复用的工具、产品原型和工程实践。
 </p>
 
 <p align="center">
