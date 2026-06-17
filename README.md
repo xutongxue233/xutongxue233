@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/xutongxue233?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-9-2563EB?style=for-the-badge&logo=github" alt="Projects" />
+    <img src="https://img.shields.io/badge/Repositories-Browse-2563EB?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
   <a href="https://github.com/xutongxue233/hotspot-tracking-system">
     <img src="https://img.shields.io/badge/Now%20Building-Hotspot%20Tracking-10B981?style=for-the-badge" alt="Now Building" />
